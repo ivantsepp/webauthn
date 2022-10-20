@@ -41,6 +41,7 @@ the different types of authenticators:
 <li>
 
 phishing-resistant <em><strong>single-step account bootstrapping</strong></em> <a href=#footnote-3>[3]</a>
+
 </li>
 </ul></td>
 </tr>
