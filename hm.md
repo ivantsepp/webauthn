@@ -40,7 +40,9 @@ the different types of authenticators:
 </li>
 <li>
 
-phishing-resistant <em><strong>single-step account bootstrapping</strong></em> <a href=#footnote-3>[3]</a>
+phishing-resistant <em><strong>single-step account bootstrapping</strong></em> <a href="#footnote-3">[3]</a>
+
+comone this should totally work [[2]](#footnote-2) right
 
 </li>
 </ul></td>
@@ -48,7 +50,7 @@ phishing-resistant <em><strong>single-step account bootstrapping</strong></em> <
 <tr class="odd">
 <td>Not-user-verifying</td>
 <td><ul>
-<li>defense-in-depth against malware <a href=#footnote-4>[4]</a></li>
+<li>defense-in-depth against malware <a href="#footnote-4">[4]</a></li>
 </ul></td>
 <td><ul>
 <li>
