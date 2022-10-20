@@ -47,7 +47,7 @@ the different types of authenticators:
 <td>Not-user-verifying</td>
 <td><ul>
 <li>
-<p>defense-in-depth against malware <a href=#footnote-4>[4]</a></p>
+<li>defense-in-depth against malware <a href=#footnote-4>[4]</a></li>
 </li>
 </ul></td>
 <td><ul>
