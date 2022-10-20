@@ -39,16 +39,15 @@ the different types of authenticators:
 <p>phishing-resistant 2nd factor</p>
 </li>
 <li>
-<p>phishing-resistant <em><strong>single-step account bootstrapping</strong></em> <a href=#footnote-3>[3]</a></p>
+
+phishing-resistant <em><strong>single-step account bootstrapping</strong></em> <a href=#footnote-3>[3]</a>
 </li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Not-user-verifying</td>
 <td><ul>
-<li>
 <li>defense-in-depth against malware <a href=#footnote-4>[4]</a></li>
-</li>
 </ul></td>
 <td><ul>
 <li>
